@@ -9,3 +9,6 @@ Una vez obtenidos los datos numericos se imprimen en formato de lista y posterio
 *El promedio de los datos.
 *La varianza de los datos.
 
+# Laboratorio 2
+El codigo permite al usuario utilizar su propio archivo de informe de acciones y posteriormente lo mueve a una carpeta determida.
+Permite y facilita la extraccion de informacion especifica utilizando expresiones regulares y mostrando los resultados de forma resumida y clara.
